@@ -1,4 +1,5 @@
 #!/bin/sh
+# corrigindo CR FL com sed -i 's/\r$//g'
 
 if [ "$DATABASE" = "postgres" ]
 then
