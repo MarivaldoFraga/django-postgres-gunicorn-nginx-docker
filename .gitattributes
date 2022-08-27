@@ -2,4 +2,4 @@
 * text=auto
 
 # Declare files that will always have CRLF line endings on checkout.
-*.\app\entrypoint.sh text eol=lf
+./app/entrypoint.sh text eol=lf
