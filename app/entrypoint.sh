@@ -1,4 +1,5 @@
 #!/bin/sh
+# normalize to lf
 
 if [ "$DATABASE" = "postgres" ]
 then
